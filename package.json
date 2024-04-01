@@ -1,11 +1,15 @@
 {
   "name": "@couds/eslint-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "src/index.js",
-  "scripts": {
-  },
-  "keywords": ["Eslint", "Linter", "Prettier", "Formater"],
+  "scripts": {},
+  "keywords": [
+    "Eslint",
+    "Linter",
+    "Prettier",
+    "Formater"
+  ],
   "author": "John Benavides <john.elric@gmail.com>",
   "license": "ISC",
   "dependencies": {
