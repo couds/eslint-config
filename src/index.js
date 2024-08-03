@@ -21,6 +21,7 @@ module.exports = {
       2,
       {
         namedComponents: 'arrow-function',
+
         unnamedComponents: 'arrow-function',
       },
     ],
